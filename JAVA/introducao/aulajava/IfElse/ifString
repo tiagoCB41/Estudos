@@ -1,0 +1,5 @@
+if (condicional.equals(condicinal2)){
+    return "é igual";
+}else if (!condicional.equals(condicinal2)){
+     return "não é igual"
+}
