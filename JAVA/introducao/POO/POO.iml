@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/introdução/construtoresO" isTestSource="false" packagePrefix="com.tiago.POO.introdu" />
+      <sourceFolder url="file://$MODULE_DIR$/introdução/exercicioLampada" isTestSource="false" packagePrefix="com.tiago.POO.introdu" />
+      <sourceFolder url="file://$MODULE_DIR$/introdução/metodoComRetorno" isTestSource="false" packagePrefix="com.tiago.POO.introdu" />
+      <sourceFolder url="file://$MODULE_DIR$/introdução/metodoSimples" isTestSource="false" packagePrefix="com.tiago.POO.introdu" />
+      <sourceFolder url="file://$MODULE_DIR$/introdução/metodoStaticExerc" isTestSource="false" packagePrefix="com.tiago.POO.introdu" />
+      <sourceFolder url="file://$MODULE_DIR$/introdução/metodosGetAndSet" isTestSource="false" packagePrefix="com.tiago.POO.introdu" />
+      <sourceFolder url="file://$MODULE_DIR$/introdução/minhaCaculadora" isTestSource="false" packagePrefix="com.tiago.POO.introdu" />
+      <sourceFolder url="file://$MODULE_DIR$/introdução/recursividade" isTestSource="false" packagePrefix="com.tiago.POO.introdu" />
+      <sourceFolder url="file://$MODULE_DIR$/introdução/relacionamentoTemUm" isTestSource="false" packagePrefix="com.tiago.POO.introdu" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="variaveis" />
+  </component>
+</module>
