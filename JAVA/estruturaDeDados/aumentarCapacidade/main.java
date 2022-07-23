@@ -7,11 +7,11 @@ public class main {
 
 
         try {
-            vetor.adicionar("posição 0");
-            vetor.adicionar("posição 1");
-            vetor.adicionar("posição 2");
-            vetor.adicionar("posição 3");
-            vetor.adicionar("posição 4");
+            vetor.adicionar("posiÃ§Ã£o 0");
+            vetor.adicionar("posiÃ§Ã£o 1");
+            vetor.adicionar("posiÃ§Ã£o 2");
+            vetor.adicionar("posiÃ§Ã£o 3");
+            vetor.adicionar("posiÃ§Ã£o 4");
 
         } catch (Exception e) {
             e.printStackTrace();
@@ -24,7 +24,7 @@ public class main {
 
         //VETOR FOI DECLARADO COM O TAMANHO = 3
         //APOS O TAMANHO SER DOBRADO COM O METODO aumentarTamanho
-        //O TAMANO FICOU 6
+        //O TAMANHO FICOU 6
         System.out.println(vetor.elementos.length);
 
 
