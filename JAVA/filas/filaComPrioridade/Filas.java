@@ -17,7 +17,7 @@ public class Filas<T>{
         return this.tamanho;
     }
 
-    public void enfileirar(T elemento){
+    public void enfileira(T elemento){
         aumentarCapacidade();
         if (tamanho < elementos.length){
             elementos[tamanho] = elemento;
